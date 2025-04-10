@@ -1,0 +1,1050 @@
+user_id,activity_count,country,gender,time,login_count,average_activity,performance_bracket
+-10,1,,,,,,top 1%
+-1,2170,,,,,,others
+0,7257,,,,,,others
+1,3,Germany,Male,,1.0,3.0,top 1%
+2,45023,Germany,Male,,169.0,266.4082840236686,others
+3,12922,Germany,Male,,107.0,120.76635514018692,others
+4,3,Germany,Male,,,,top 1%
+5,1079,Germany,Male,207980.0,54.0,19.98148148148148,others
+7,94,Germany,Male,159.0,3.0,31.333333333333332,others
+8,55,Germany,Male,141.0,2.0,27.5,others
+9,436,Nigeria,Male,11771.0,13.0,33.53846153846154,others
+12,76,Germany,Male,0.0,,,others
+13,60,Germany,Male,0.0,,,others
+14,64,Germany,Male,0.0,,,others
+15,147,Germany,Male,4098.0,5.0,29.4,others
+16,433,Germany,Male,1286.0,5.0,86.6,others
+17,63,Germany,Male,0.0,,,others
+18,74,Germany,Male,0.0,,,others
+19,138,Germany,Male,6578.0,2.0,69.0,others
+20,95,Germany,Male,1836.0,2.0,47.5,others
+21,70,Germany,Male,0.0,,,others
+22,84,Namibia,Female,0.0,1.0,84.0,others
+23,67,Germany,Male,0.0,,,others
+24,102,Germany,Male,384.0,3.0,34.0,others
+25,1894,Germany,Male,563691.0,46.0,41.17391304347826,others
+26,65,Germany,Male,0.0,,,others
+27,63,Germany,Male,0.0,,,others
+28,60,Germany,Male,0.0,,,others
+29,74,Germany,Male,0.0,,,others
+30,169,Germany,Male,5579.0,4.0,42.25,others
+31,63,Germany,Male,0.0,,,others
+32,99,Germany,Male,1717.0,4.0,24.75,others
+36,111,Ghana,Male,2212.0,3.0,37.0,others
+37,71,Nigeria,Male,0.0,,,others
+38,287,Kenya,Male,19469.0,7.0,41.0,others
+39,500,Nigeria,Male,11330.0,4.0,125.0,others
+40,350,Nigeria,Female,22075.0,19.0,18.42105263157895,others
+41,103,Ethiopia,Male,0.0,1.0,103.0,others
+42,4916,Ethiopia,Male,37470.0,21.0,234.0952380952381,others
+43,982,Nigeria,Male,26521.0,12.0,81.83333333333333,others
+44,1028,Ghana,Male,30573.0,23.0,44.69565217391305,others
+45,4241,Ghana,Female,127684.0,63.0,67.31746031746032,others
+46,90,Ethiopia,Male,0.0,2.0,45.0,others
+47,84,Ethiopia,Male,178.0,3.0,28.0,others
+48,2710,Kenya,Female,50018.0,32.0,84.6875,others
+49,78,Ethiopia,Male,0.0,,,others
+50,1697,Ghana,Male,67376.0,33.0,51.42424242424242,others
+51,900,Cameroon,Male,77456.0,17.0,52.94117647058823,others
+52,113,Cameroon,Female,4615.0,2.0,56.5,others
+53,73,Ethiopia,Female,0.0,,,others
+54,141,Kenya,Male,7228.0,6.0,23.5,others
+55,123,Nigeria,Female,1923.0,2.0,61.5,others
+56,211,South Africa,Female,1015.0,2.0,105.5,others
+57,2836,Senegal,Female,20315.0,41.0,69.17073170731707,others
+58,2241,Rwanda,Male,31944.0,15.0,149.4,others
+59,106,Ethiopia,Female,851.0,2.0,53.0,others
+60,230,Nigeria,Male,10858.0,9.0,25.555555555555557,others
+61,2669,Ghana,Female,82861.0,19.0,140.47368421052633,others
+62,195,Benin,Female,6178.0,12.0,16.25,others
+63,72,Kenya,Male,0.0,,,others
+64,86,Ethiopia,Male,66.0,2.0,43.0,others
+65,165,Nigeria,Male,10444.0,8.0,20.625,others
+66,80,Ghana,Male,0.0,,,others
+67,640,Ghana,Male,10663.0,12.0,53.333333333333336,others
+68,302,Ethiopia,Male,20160.0,7.0,43.142857142857146,others
+69,151,Ghana,Male,8331.0,3.0,50.333333333333336,others
+70,105,Kenya,Female,1226.0,5.0,21.0,others
+71,128,Rwanda,Male,1044.0,2.0,64.0,others
+72,86,Kenya,Male,0.0,1.0,86.0,others
+73,667,Ghana,Male,5737.0,8.0,83.375,others
+74,218,Ethiopia,Female,488.0,4.0,54.5,others
+75,147,Nigeria,Male,5262.0,4.0,36.75,others
+76,9,Germany,Male,,,,top 1%
+77,3832,Germany,Male,12983.0,7.0,547.4285714285714,others
+78,201,Ghana,Male,0.0,1.0,201.0,others
+79,72,Kenya,Female,0.0,,,others
+80,445,Rwanda,Male,16786.0,9.0,49.44444444444444,others
+81,115,Ghana,Male,604.0,2.0,57.5,others
+82,96,Kenya,Female,0.0,1.0,96.0,others
+83,142,Ghana,Female,1628.0,2.0,71.0,others
+84,544,Ghana,Male,22370.0,15.0,36.266666666666666,others
+85,144,Cameroon,Female,2389.0,3.0,48.0,others
+86,462,South Africa,Female,326.0,2.0,231.0,others
+87,66,Ghana,Male,0.0,,,others
+88,1486,Nigeria,Male,19111.0,7.0,212.28571428571428,others
+89,71,Ghana,Female,0.0,,,others
+90,4644,Nigeria,Male,79215.0,57.0,81.47368421052632,others
+91,68,Ghana,Female,0.0,,,others
+92,83,Nigeria,Male,0.0,1.0,83.0,others
+93,94,Nigeria,Male,145.0,2.0,47.0,others
+94,231,Ghana,Male,12476.0,3.0,77.0,others
+95,4004,Ethiopia,Male,80751.0,37.0,108.21621621621621,others
+96,234,Ethiopia,Male,1161.0,5.0,46.8,others
+97,71,Nigeria,Female,0.0,,,others
+98,1910,Ghana,Male,35086.0,27.0,70.74074074074075,others
+99,671,Ghana,Male,20407.0,15.0,44.733333333333334,others
+100,141,Ethiopia,Male,5134.0,5.0,28.2,others
+101,122,Ethiopia,Male,0.0,1.0,122.0,others
+102,1593,Togo,Male,29730.0,8.0,199.125,others
+103,865,Ghana,Male,91070.0,19.0,45.526315789473685,others
+104,94,Ethiopia,Male,0.0,1.0,94.0,others
+105,317,Ethiopia,Female,35895.0,18.0,17.61111111111111,others
+106,128,Nigeria,Male,4016.0,6.0,21.333333333333332,others
+107,280,Nigeria,Male,4211.0,4.0,70.0,others
+108,145,Botswana,Female,4443.0,2.0,72.5,others
+109,83,Ghana,Male,0.0,,,others
+110,80,Ethiopia,Female,19.0,2.0,40.0,others
+111,79,Ethiopia,Female,0.0,,,others
+112,83,Ethiopia,Male,0.0,1.0,83.0,others
+113,84,Kenya,Male,265.0,2.0,42.0,others
+114,83,Ethiopia,Male,0.0,,,others
+115,1063,Nigeria,Male,36868.0,17.0,62.529411764705884,others
+116,165,Ghana,Male,547.0,3.0,55.0,others
+117,71,Rwanda,Female,0.0,,,others
+118,1316,Kenya,Female,29529.0,26.0,50.61538461538461,others
+119,118,Nigeria,Male,3783.0,3.0,39.333333333333336,others
+120,437,Ethiopia,Male,4881.0,6.0,72.83333333333333,others
+121,294,Ghana,Female,12004.0,4.0,73.5,others
+122,82,Kenya,Female,0.0,,,others
+123,1138,Ghana,Male,32110.0,18.0,63.22222222222222,others
+124,93,Cameroon,Female,0.0,1.0,93.0,others
+125,121,Nigeria,Male,4344.0,4.0,30.25,others
+126,736,CÔTE D'IVOIRE,Male,43297.0,13.0,56.61538461538461,others
+127,412,Nigeria,Male,2045.0,5.0,82.4,others
+128,97,Nigeria,Male,0.0,1.0,97.0,others
+129,106,Ghana,Male,516.0,3.0,35.333333333333336,others
+130,224,Ghana,Male,10199.0,4.0,56.0,others
+131,287,Nigeria,Female,12481.0,10.0,28.7,others
+132,351,Mali,Male,12616.0,9.0,39.0,others
+133,919,Ghana,Male,8026.0,20.0,45.95,others
+134,394,Ghana,Male,0.0,1.0,394.0,others
+135,309,Nigeria,Female,11870.0,14.0,22.071428571428573,others
+136,78,Nigeria,Male,0.0,,,others
+137,171,Ghana,Male,4511.0,3.0,57.0,others
+138,781,Ghana,Male,18860.0,12.0,65.08333333333333,others
+139,119,Nigeria,Male,135.0,2.0,59.5,others
+140,177,Nigeria,Male,2908.0,4.0,44.25,others
+141,645,Ghana,Female,8712.0,6.0,107.5,others
+142,72,Nigeria,Female,0.0,,,others
+143,772,Nigeria,Male,12993.0,18.0,42.888888888888886,others
+144,145,Ghana,Male,10139.0,6.0,24.166666666666668,others
+145,649,Nigeria,Male,42616.0,14.0,46.357142857142854,others
+146,958,Cameroon,Male,31394.0,14.0,68.42857142857143,others
+147,1487,Ethiopia,Male,19163.0,19.0,78.26315789473684,others
+148,266,Kenya,Male,27817.0,7.0,38.0,others
+149,205,Kenya,Female,11171.0,6.0,34.166666666666664,others
+150,98,Ethiopia,Male,999.0,2.0,49.0,others
+151,126,Mauritius,Female,7635.0,2.0,63.0,others
+152,132,Kenya,Female,1131.0,8.0,16.5,others
+153,457,Nigeria,Male,4060.0,5.0,91.4,others
+154,79,Benin,Female,0.0,,,others
+155,95,Ghana,Male,0.0,1.0,95.0,others
+156,784,Ghana,Female,37415.0,15.0,52.266666666666666,others
+157,114,Ethiopia,Female,101.0,2.0,57.0,others
+158,114,Ghana,Female,470.0,4.0,28.5,others
+159,443,Ethiopia,Male,2831.0,5.0,88.6,others
+160,145,Ethiopia,Male,4438.0,2.0,72.5,others
+161,240,Ghana,Male,14751.0,5.0,48.0,others
+162,80,Nigeria,Male,0.0,1.0,80.0,others
+163,86,Nigeria,Female,0.0,1.0,86.0,others
+164,84,Ethiopia,Male,0.0,1.0,84.0,others
+165,6015,Nigeria,Male,57700.0,91.0,66.0989010989011,others
+166,137,Ghana,Female,1128.0,5.0,27.4,others
+167,1171,Nigeria,Male,55336.0,17.0,68.88235294117646,others
+168,451,Nigeria,Male,6297.0,6.0,75.16666666666667,others
+169,84,Ghana,Male,464.0,2.0,42.0,others
+170,2450,Madagascar,Female,60248.0,55.0,44.54545454545455,others
+171,85,Ghana,Male,160.0,3.0,28.333333333333332,others
+172,95,Kenya,Male,0.0,1.0,95.0,others
+173,66,Zimbabwe,Female,0.0,,,others
+174,1810,Rwanda,Male,342566.0,13.0,139.23076923076923,others
+175,109,Nigeria,Male,1116.0,5.0,21.8,others
+176,106,Nigeria,Female,26.0,3.0,35.333333333333336,others
+177,67,Sierra Leone,Male,0.0,,,others
+178,257,Nigeria,Male,7141.0,4.0,64.25,others
+179,471,Mali,Male,18531.0,16.0,29.4375,others
+180,602,Nigeria,Female,4323.0,8.0,75.25,others
+181,83,Nigeria,Female,0.0,,,others
+182,859,Ghana,Male,11784.0,5.0,171.8,others
+183,79,Nigeria,Female,0.0,,,others
+184,339,Nigeria,Male,4717.0,3.0,113.0,others
+185,2522,Nigeria,Male,65690.0,19.0,132.73684210526315,others
+186,159,Ethiopia,Female,4936.0,5.0,31.8,others
+187,71,Nigeria,Male,0.0,,,others
+188,156,Ghana,Male,2336.0,4.0,39.0,others
+189,647,Ghana,Male,15573.0,4.0,161.75,others
+190,1872,Ghana,Female,82086.0,50.0,37.44,others
+191,87,Nigeria,Male,0.0,,,others
+192,70,Ghana,Male,0.0,,,others
+193,138,Nigeria,Male,5179.0,4.0,34.5,others
+194,529,Ghana,Female,1957.0,3.0,176.33333333333334,others
+195,124,Rwanda,Female,0.0,1.0,124.0,others
+196,67,Ethiopia,Female,0.0,,,others
+197,72,Nigeria,Male,0.0,,,others
+198,173,Rwanda,Female,10599.0,4.0,43.25,others
+199,267,Ghana,Female,8504.0,11.0,24.272727272727273,others
+200,86,Ghana,Male,0.0,,,others
+201,4964,Kenya,Male,139907.0,23.0,215.82608695652175,others
+202,352,Liberia,Male,57.0,3.0,117.33333333333333,others
+203,149,Kenya,Female,3041.0,4.0,37.25,others
+204,135,Ethiopia,Male,2884.0,4.0,33.75,others
+205,82,Nigeria,Male,0.0,1.0,82.0,others
+206,72,Somalia,Male,0.0,,,others
+207,94,Benin,Male,0.0,1.0,94.0,others
+208,98,Sudan,Female,392.0,2.0,49.0,others
+209,233,Kenya,Female,6929.0,8.0,29.125,others
+210,3075,Kenya,Male,461267.0,13.0,236.53846153846155,others
+211,104,Ghana,Male,0.0,1.0,104.0,others
+212,74,Nigeria,Male,0.0,,,others
+213,294,Nigeria,Male,15378.0,7.0,42.0,others
+214,120,Nigeria,Male,9873.0,3.0,40.0,others
+215,105,Nigeria,Male,252.0,3.0,35.0,others
+216,68,Ethiopia,Female,0.0,,,others
+217,1434,Nigeria,Male,44902.0,11.0,130.36363636363637,others
+218,75,Ghana,Female,0.0,,,others
+219,126,Ghana,Female,1138.0,3.0,42.0,others
+220,110,Ghana,Female,2924.0,2.0,55.0,others
+221,101,Ghana,Female,2891.0,3.0,33.666666666666664,others
+222,581,Ghana,Male,8154.0,13.0,44.69230769230769,others
+223,182,Ghana,Male,77.0,2.0,91.0,others
+224,82,Ghana,Male,0.0,,,others
+225,149,Rwanda,Male,3913.0,5.0,29.8,others
+226,93,Ghana,Female,0.0,1.0,93.0,others
+227,120,Nigeria,Male,1463.0,4.0,30.0,others
+228,5063,Nigeria,Male,55253.0,23.0,220.1304347826087,others
+229,72,Nigeria,Male,0.0,,,others
+230,70,Ghana,Male,0.0,,,others
+231,84,Egypt,Female,0.0,1.0,84.0,others
+232,94,Ghana,Female,0.0,1.0,94.0,others
+233,322,Ghana,Male,8937.0,5.0,64.4,others
+234,1677,Rwanda,Male,72888.0,24.0,69.875,others
+235,107,Kenya,Male,130.0,2.0,53.5,others
+236,187,Ethiopia,Male,3906.0,3.0,62.333333333333336,others
+237,157,Ghana,Female,1252.0,3.0,52.333333333333336,others
+238,73,Ghana,Female,0.0,1.0,73.0,others
+239,143,Ghana,Female,7516.0,4.0,35.75,others
+240,103,Ghana,Female,0.0,1.0,103.0,others
+241,767,Ghana,Male,19424.0,5.0,153.4,others
+242,515,Sudan,Female,18543.0,9.0,57.22222222222222,others
+243,104,Nigeria,Female,0.0,1.0,104.0,others
+244,310,Nigeria,Male,22672.0,6.0,51.666666666666664,others
+245,79,Rwanda,Female,0.0,,,others
+246,13917,Ghana,Female,453162.0,113.0,123.15929203539822,others
+247,130,Ghana,Female,887.0,2.0,65.0,others
+248,80,Ghana,Male,0.0,,,others
+249,68,Ghana,Female,0.0,,,others
+250,908,Nigeria,Male,32350.0,20.0,45.4,others
+251,77,Ghana,Male,0.0,1.0,77.0,others
+252,102,Ghana,Female,337.0,3.0,34.0,others
+253,578,Ghana,Female,5392.0,8.0,72.25,others
+254,814,Nigeria,Male,27644.0,19.0,42.8421052631579,others
+255,583,Kenya,Female,4914.0,2.0,291.5,others
+256,152,Kenya,Female,8152.0,2.0,76.0,others
+257,68,Nigeria,Female,0.0,,,others
+258,238,Ethiopia,Female,7848.0,7.0,34.0,others
+259,2211,Ghana,Female,71086.0,36.0,61.416666666666664,others
+260,138,Ethiopia,Male,1030.0,4.0,34.5,others
+261,80,Madagascar,Female,0.0,2.0,40.0,others
+262,1756,Ghana,Male,73151.0,14.0,125.42857142857143,others
+263,310,Rwanda,Female,14574.0,2.0,155.0,others
+264,92,Ghana,Male,0.0,1.0,92.0,others
+265,147,Nigeria,Female,864.0,4.0,36.75,others
+266,3902,Nigeria,Male,168798.0,64.0,60.96875,others
+267,133,Ethiopia,Male,1417.0,7.0,19.0,others
+268,526,Mauritius,Male,96476.0,16.0,32.875,others
+269,81,Nigeria,Female,53.0,2.0,40.5,others
+270,425,Cameroon,Female,6552.0,4.0,106.25,others
+271,444,Nigeria,Female,28763.0,18.0,24.666666666666668,others
+272,226,Kenya,Female,10728.0,7.0,32.285714285714285,others
+273,90,Ghana,Male,92.0,4.0,22.5,others
+274,1876,Ghana,Male,56379.0,26.0,72.15384615384616,others
+275,111,Kenya,Female,932.0,3.0,37.0,others
+276,73,"Tanzania, UNITED REPUBLIC OF",Male,0.0,,,others
+277,912,Guinea,Female,47757.0,46.0,19.82608695652174,others
+278,258,Ghana,Female,3875.0,6.0,43.0,others
+279,66,Cameroon,Female,0.0,,,others
+280,528,Rwanda,Male,3933.0,5.0,105.6,others
+281,110,Cameroon,Female,462.0,2.0,55.0,others
+282,588,Cameroon,Female,19466.0,6.0,98.0,others
+283,73,Zimbabwe,Male,0.0,,,others
+284,1670,Ghana,Female,102748.0,30.0,55.666666666666664,others
+285,176,Ghana,Male,1291.0,3.0,58.666666666666664,others
+286,1215,Ghana,Female,24626.0,33.0,36.81818181818182,others
+287,140,Ghana,Female,18027.0,7.0,20.0,others
+288,97,Ghana,Female,187.0,2.0,48.5,others
+289,684,Ghana,Male,38698.0,18.0,38.0,others
+290,8558,Ghana,Male,191809.0,73.0,117.23287671232876,others
+291,409,Benin,Female,0.0,2.0,204.5,others
+292,88,Nigeria,Male,0.0,1.0,88.0,others
+293,85,Benin,Male,128.0,3.0,28.333333333333332,others
+294,1409,Ghana,Female,44408.0,31.0,45.45161290322581,others
+295,209,Ghana,Female,517.0,3.0,69.66666666666667,others
+296,157,Ghana,Female,3161.0,7.0,22.428571428571427,others
+297,142,Ghana,Female,0.0,1.0,142.0,others
+298,217,Ghana,Male,1174.0,4.0,54.25,others
+299,724,Ghana,Male,22172.0,8.0,90.5,others
+300,72,Kenya,Female,0.0,,,others
+301,903,Ghana,Female,14849.0,8.0,112.875,others
+302,89,Kenya,Male,0.0,1.0,89.0,others
+303,293,Ghana,Female,22293.0,17.0,17.235294117647058,others
+304,36,Ghana,Male,0.0,,,others
+305,66,Ghana,Male,396.0,3.0,22.0,others
+306,160,Nigeria,Male,9369.0,7.0,22.857142857142858,others
+307,131,Nigeria,Female,1847.0,2.0,65.5,others
+308,46,Rwanda,Male,0.0,1.0,46.0,others
+309,84,Benin,Male,6600.0,3.0,28.0,others
+310,41,Nigeria,Male,0.0,,,others
+311,59,Cameroon,Male,274.0,3.0,19.666666666666668,others
+312,41,Rwanda,Male,0.0,,,others
+313,87,Ghana,Male,646.0,2.0,43.5,others
+314,42,Kenya,Male,0.0,,,others
+315,65,Ethiopia,Female,94.0,2.0,32.5,others
+316,52,Nigeria,Female,0.0,,,others
+317,82,Nigeria,Male,1727.0,3.0,27.333333333333332,others
+318,45,Zimbabwe,Female,280.0,2.0,22.5,others
+319,203,Ghana,Female,9197.0,9.0,22.555555555555557,others
+320,83,Nigeria,Male,495.0,2.0,41.5,others
+321,48,Nigeria,Male,0.0,,,others
+322,47,Cameroon,Female,0.0,1.0,47.0,others
+323,42,Ghana,Male,0.0,,,others
+324,47,Cameroon,Female,0.0,,,others
+325,41,Nigeria,Male,0.0,,,others
+326,53,Cameroon,Male,0.0,,,others
+327,37,Ethiopia,Male,0.0,,,others
+328,4297,Ghana,Male,76620.0,21.0,204.61904761904762,others
+329,52,Nigeria,Male,0.0,,,others
+330,66,Ghana,Female,662.0,2.0,33.0,others
+331,971,Ghana,Female,42372.0,10.0,97.1,others
+332,97,Nigeria,Female,16033.0,3.0,32.333333333333336,others
+333,61,Rwanda,Male,0.0,1.0,61.0,others
+334,100,Ethiopia,Male,2086.0,8.0,12.5,others
+335,54,Ghana,Female,0.0,,,others
+336,51,Gabon,Male,0.0,,,others
+337,41,Ethiopia,Female,0.0,,,others
+338,48,Rwanda,Male,0.0,,,others
+339,131,Ethiopia,Female,2147.0,4.0,32.75,others
+340,2016,Ethiopia,Female,50526.0,10.0,201.6,others
+341,502,Ghana,Male,53283.0,24.0,20.916666666666668,others
+342,74,Rwanda,Male,835.0,3.0,24.666666666666668,others
+343,89,Nigeria,Male,9202.0,5.0,17.8,others
+344,6019,Ghana,Female,145269.0,68.0,88.51470588235294,others
+345,52,Nigeria,Female,0.0,,,others
+346,273,Rwanda,Female,27955.0,12.0,22.75,others
+347,7320,Kenya,Male,400607.0,26.0,281.53846153846155,others
+348,305,Kenya,Male,20689.0,7.0,43.57142857142857,others
+349,231,Kenya,Female,8423.0,4.0,57.75,others
+350,52,Lesotho,Female,0.0,1.0,52.0,others
+351,292,Kenya,Male,9507.0,6.0,48.666666666666664,others
+352,37,Ghana,Male,0.0,,,others
+353,756,Ghana,Male,46222.0,20.0,37.8,others
+354,204,Nigeria,Female,18048.0,8.0,25.5,others
+355,52,Nigeria,Male,0.0,,,others
+356,193,Ghana,Female,151.0,2.0,96.5,others
+357,47,Nigeria,Male,0.0,1.0,47.0,others
+358,52,Ghana,Female,0.0,,,others
+359,99,Nigeria,Male,804.0,3.0,33.0,others
+360,41,Nigeria,Male,0.0,,,others
+361,1285,Nigeria,Male,3140.0,7.0,183.57142857142858,others
+362,1385,Nigeria,Male,72415.0,40.0,34.625,others
+363,1647,Ghana,Female,51690.0,20.0,82.35,others
+364,40,Nigeria,Male,0.0,,,others
+365,48,Nigeria,Male,0.0,,,others
+366,36,Nigeria,Male,0.0,,,others
+367,876,Nigeria,Male,5863.0,5.0,175.2,others
+368,59,Nigeria,Male,0.0,,,others
+369,4608,Nigeria,Male,169087.0,100.0,46.08,others
+370,79,Nigeria,Male,0.0,1.0,79.0,others
+371,38,Ethiopia,Male,0.0,,,others
+372,354,Nigeria,Male,20697.0,7.0,50.57142857142857,others
+373,102,Kenya,Male,0.0,1.0,102.0,others
+374,353,Nigeria,Male,33223.0,11.0,32.09090909090909,others
+375,154,Kenya,Female,0.0,1.0,154.0,others
+376,250,Kenya,Male,9801.0,5.0,50.0,others
+377,3459,Nigeria,Male,91882.0,13.0,266.0769230769231,others
+378,1166,Ghana,Female,92680.0,16.0,72.875,others
+379,79,Ghana,Male,0.0,1.0,79.0,others
+380,51,Ghana,Female,0.0,,,others
+381,1595,Nigeria,Male,48325.0,23.0,69.34782608695652,others
+382,2994,Nigeria,Male,57818.0,23.0,130.17391304347825,others
+383,2260,Nigeria,Male,139954.0,42.0,53.80952380952381,others
+384,71,Egypt,Male,2455.0,2.0,35.5,others
+385,2373,Nigeria,Male,74452.0,24.0,98.875,others
+386,112,Nigeria,Male,5053.0,3.0,37.333333333333336,others
+387,1778,Nigeria,Male,11274.0,6.0,296.3333333333333,others
+388,68,Nigeria,Male,0.0,1.0,68.0,others
+389,36,Nigeria,Female,0.0,,,others
+390,2794,Germany,Male,15907.0,10.0,279.4,others
+391,7,Germany,Male,0.0,1.0,7.0,top 1%
+392,85,Nigeria,Male,127.0,2.0,42.5,others
+393,14,Nigeria,Male,0.0,,,others
+394,46,Nigeria,Male,617.0,2.0,23.0,others
+395,32,Nigeria,Male,0.0,1.0,32.0,others
+396,33,Nigeria,Male,363.0,2.0,16.5,others
+397,27,Nigeria,Female,213.0,2.0,13.5,others
+398,29,Nigeria,Male,303.0,2.0,14.5,others
+399,12,Ghana,Male,0.0,,,top 25%
+400,170,Sudan,Female,7489.0,14.0,12.142857142857142,others
+401,13,Gambia,Male,0.0,,,others
+402,32,Ghana,Male,78.0,2.0,16.0,others
+403,14,Ghana,Male,0.0,,,others
+404,50,Benin,Male,9352.0,2.0,25.0,others
+405,12,Ghana,Female,0.0,,,top 25%
+406,105,Ethiopia,Male,3814.0,5.0,21.0,others
+407,29,Ghana,Female,0.0,1.0,29.0,others
+408,12,Nigeria,Female,0.0,,,top 25%
+409,1526,Ghana,Male,41409.0,38.0,40.1578947368421,others
+410,1606,Nigeria,Male,8680.0,11.0,146.0,others
+411,250,Ghana,Male,15909.0,9.0,27.77777777777778,others
+412,12,Nigeria,Female,0.0,,,top 25%
+413,35,Uganda,Female,0.0,1.0,35.0,others
+414,56,Kenya,Female,0.0,1.0,56.0,others
+415,12,Nigeria,Male,0.0,,,top 25%
+416,26,Ghana,Female,0.0,2.0,13.0,others
+417,40,Ghana,Female,743.0,2.0,20.0,others
+418,12,Ghana,Male,0.0,,,top 25%
+419,43,Ghana,Female,4827.0,2.0,21.5,others
+420,1927,Ghana,Male,19005.0,16.0,120.4375,others
+421,62,Ghana,Female,1837.0,3.0,20.666666666666668,others
+422,29,Zimbabwe,Female,0.0,1.0,29.0,others
+423,91,Nigeria,Male,7993.0,6.0,15.166666666666666,others
+424,118,Ghana,Male,4839.0,6.0,19.666666666666668,others
+425,12,Nigeria,Male,0.0,,,top 25%
+426,12,Kenya,Male,0.0,,,top 25%
+427,1254,Ethiopia,Male,16489.0,3.0,418.0,others
+428,1939,"Congo, Democratic Republic of the",Male,123460.0,16.0,121.1875,others
+429,12,Kenya,Female,0.0,,,top 25%
+430,12,Kenya,Female,0.0,,,top 25%
+431,49,Nigeria,Female,9594.0,2.0,24.5,others
+432,23,Nigeria,Male,0.0,1.0,23.0,others
+433,41,Nigeria,Male,653.0,2.0,20.5,others
+434,377,Ethiopia,Female,14687.0,21.0,17.952380952380953,others
+435,12,Ghana,Male,0.0,,,top 25%
+436,107,Ghana,Male,8242.0,4.0,26.75,others
+437,31,Ghana,Female,218.0,3.0,10.333333333333334,others
+438,12,Nigeria,Male,0.0,,,top 25%
+439,12,"Congo, Democratic Republic of the",Male,0.0,,,top 25%
+440,1712,Nigeria,Male,23277.0,5.0,342.4,others
+441,12,Ghana,Male,0.0,,,top 25%
+442,13,Nigeria,Male,0.0,,,others
+443,779,Cameroon,Male,22139.0,2.0,389.5,others
+444,14,Nigeria,Male,0.0,,,others
+445,97,Kenya,Male,9113.0,7.0,13.857142857142858,others
+446,12,Nigeria,Male,0.0,,,top 25%
+447,12,Nigeria,Male,0.0,,,top 25%
+448,34,Nigeria,Female,0.0,1.0,34.0,others
+449,2921,Nigeria,Female,50578.0,26.0,112.34615384615384,others
+450,12,"Congo, Democratic Republic of the",Male,0.0,,,top 25%
+451,43,Nigeria,Female,0.0,1.0,43.0,others
+452,27,Nigeria,Female,0.0,1.0,27.0,others
+453,95,Nigeria,Male,0.0,2.0,47.5,others
+454,12,Rwanda,Prefer not to say,0.0,,,top 25%
+455,22,"Tanzania, UNITED REPUBLIC OF",Male,164.0,2.0,11.0,others
+456,12,Malawi,Male,0.0,,,top 25%
+457,13,Uganda,Male,0.0,,,others
+458,12,Nigeria,Male,0.0,,,top 25%
+459,35,Rwanda,Male,0.0,1.0,35.0,others
+460,12,Ethiopia,Male,0.0,,,top 25%
+461,60,Rwanda,Female,8548.0,4.0,15.0,others
+462,12,"Tanzania, UNITED REPUBLIC OF",Male,0.0,,,top 25%
+463,12,Rwanda,Female,0.0,,,top 25%
+464,123,Rwanda,Male,17292.0,13.0,9.461538461538462,others
+465,23,Ghana,Male,0.0,1.0,23.0,others
+466,13,Ghana,Male,0.0,,,others
+467,18,Mauritius,Male,0.0,1.0,18.0,others
+468,121,Nigeria,Male,13821.0,3.0,40.333333333333336,others
+469,12,Ghana,Male,0.0,,,top 25%
+470,144,Nigeria,Male,4426.0,6.0,24.0,others
+471,12,Ghana,Male,0.0,,,top 25%
+472,12,Nigeria,Male,0.0,,,top 25%
+473,64,Ethiopia,Male,2472.0,5.0,12.8,others
+474,12,Kenya,Male,0.0,,,top 25%
+475,42,Ghana,Male,208.0,2.0,21.0,others
+476,32,Ghana,Female,118.0,2.0,16.0,others
+477,12,Ghana,Female,0.0,,,top 25%
+478,12,Nigeria,Male,0.0,,,top 25%
+479,21,Ghana,Female,0.0,1.0,21.0,others
+480,4232,Nigeria,Male,32899.0,19.0,222.73684210526315,others
+481,12,Ghana,Female,0.0,,,top 25%
+482,12,Ghana,Female,0.0,,,top 25%
+483,12,Ethiopia,Female,0.0,,,top 25%
+484,724,Ethiopia,Male,202.0,2.0,362.0,others
+485,12,Ethiopia,Male,0.0,,,top 25%
+486,1269,Rwanda,Male,21805.0,9.0,141.0,others
+487,12,Ethiopia,Male,0.0,,,top 25%
+488,12,Nigeria,Female,0.0,,,top 25%
+489,102,Ethiopia,Male,3159.0,6.0,17.0,others
+490,29,Ethiopia,Male,0.0,1.0,29.0,others
+491,12,Ethiopia,Male,0.0,,,top 25%
+492,12,Ghana,Male,0.0,,,top 25%
+493,14,Nigeria,Male,0.0,,,others
+494,36,Ethiopia,Male,0.0,1.0,36.0,others
+495,43,Ghana,Male,0.0,1.0,43.0,others
+496,12,Nigeria,Male,0.0,,,top 25%
+497,37,Ghana,Male,734.0,3.0,12.333333333333334,others
+498,12,Ethiopia,Male,0.0,,,top 25%
+499,12,Ghana,Male,0.0,,,top 25%
+500,12,Sierra Leone,Male,0.0,,,top 25%
+501,37,Ethiopia,Male,0.0,1.0,37.0,others
+502,96,Nigeria,Male,90.0,2.0,48.0,others
+503,12,Ethiopia,Male,0.0,,,top 25%
+504,12,Ethiopia,Male,0.0,,,top 25%
+505,27,Ghana,Male,48.0,2.0,13.5,others
+506,12,Ethiopia,Male,0.0,,,top 25%
+507,12,Ghana,Male,0.0,,,top 25%
+508,12,Ethiopia,Male,0.0,,,top 25%
+509,29,Ethiopia,Female,0.0,1.0,29.0,others
+510,12,Ghana,Male,0.0,,,top 25%
+511,35,Ghana,Male,593.0,2.0,17.5,others
+512,52,Ethiopia,Male,2890.0,3.0,17.333333333333332,others
+513,32,Ghana,Female,0.0,1.0,32.0,others
+514,12,Ethiopia,Male,0.0,,,top 25%
+515,12,Ghana,Male,0.0,,,top 25%
+516,27,Ethiopia,Male,0.0,1.0,27.0,others
+517,44,Ethiopia,Male,2398.0,2.0,22.0,others
+518,12,Ghana,Male,0.0,,,top 25%
+519,13,Ghana,Male,0.0,,,others
+520,48,Ethiopia,Male,0.0,1.0,48.0,others
+521,12,Ethiopia,Male,0.0,,,top 25%
+522,59,Ethiopia,Male,1366.0,2.0,29.5,others
+523,12,Nigeria,Male,0.0,,,top 25%
+524,19,Rwanda,Male,0.0,1.0,19.0,others
+525,31,Ghana,Male,223.0,2.0,15.5,others
+526,19,Ethiopia,Female,0.0,1.0,19.0,others
+527,12,Ethiopia,Female,0.0,,,top 25%
+528,18,Ethiopia,Female,0.0,1.0,18.0,others
+529,12,Nigeria,Female,0.0,,,top 25%
+530,12,Nigeria,Male,0.0,,,top 25%
+531,12,Ghana,Female,0.0,,,top 25%
+532,23,Ghana,Female,0.0,1.0,23.0,others
+533,21,Ghana,Male,0.0,1.0,21.0,others
+534,49,Rwanda,Male,0.0,1.0,49.0,others
+535,29,Ethiopia,Female,0.0,1.0,29.0,others
+536,12,Ethiopia,Male,0.0,,,top 25%
+537,12,Rwanda,Male,0.0,,,top 25%
+538,16,Eritrea,Male,0.0,,,others
+539,12,Ethiopia,Female,0.0,,,top 25%
+540,12,Ghana,Male,0.0,,,top 25%
+541,104,Ghana,Female,5584.0,2.0,52.0,others
+542,24,Rwanda,Female,0.0,1.0,24.0,others
+543,20,Ghana,Male,0.0,1.0,20.0,others
+544,12,Nigeria,Male,0.0,,,top 25%
+545,12,Nigeria,Male,0.0,,,top 25%
+546,12,Nigeria,Male,0.0,,,top 25%
+547,12,Nigeria,Male,0.0,,,top 25%
+548,97,Senegal,Male,4291.0,2.0,48.5,others
+549,71,Ghana,Male,6547.0,3.0,23.666666666666668,others
+550,12,Ethiopia,Male,0.0,,,top 25%
+551,12,Ethiopia,Male,0.0,,,top 25%
+552,38,Nigeria,Male,0.0,1.0,38.0,others
+553,12,Nigeria,Male,0.0,,,top 25%
+554,30,Mauritius,Female,0.0,1.0,30.0,others
+555,61,Kenya,Female,0.0,1.0,61.0,others
+556,12,Kenya,Female,0.0,,,top 25%
+557,61,Ghana,Female,1473.0,5.0,12.2,others
+558,14,Nigeria,Male,0.0,,,others
+559,33,Ethiopia,Male,111.0,2.0,16.5,others
+560,12,Benin,Male,0.0,,,top 25%
+561,29,Egypt,Male,0.0,1.0,29.0,others
+562,12,Ghana,Male,0.0,,,top 25%
+563,12,South Africa,Male,0.0,,,top 25%
+564,31,Nigeria,Female,263.0,2.0,15.5,others
+565,35,Nigeria,Male,561.0,2.0,17.5,others
+566,32,Nigeria,Male,0.0,1.0,32.0,others
+567,3345,Ghana,Male,33879.0,10.0,334.5,others
+568,22,Nigeria,Male,0.0,1.0,22.0,others
+569,24,"Tanzania, UNITED REPUBLIC OF",Male,0.0,1.0,24.0,others
+570,12,Malawi,Male,0.0,,,top 25%
+571,12,Nigeria,Male,0.0,,,top 25%
+572,12,Ghana,Male,0.0,,,top 25%
+573,12,Nigeria,Male,0.0,,,top 25%
+574,25,Nigeria,Male,0.0,1.0,25.0,others
+575,13,Ethiopia,Male,0.0,,,others
+576,12,Ethiopia,Male,0.0,,,top 25%
+577,12,Cameroon,Female,0.0,,,top 25%
+578,20,Ethiopia,Male,440.0,2.0,10.0,others
+579,12,Ethiopia,Male,0.0,,,top 25%
+580,12,Nigeria,Male,0.0,,,top 25%
+581,10533,Kenya,Female,130087.0,51.0,206.52941176470588,others
+582,19,Ethiopia,Male,0.0,1.0,19.0,others
+583,12,Ghana,Male,0.0,,,top 25%
+584,34,Nigeria,Male,0.0,1.0,34.0,others
+585,12,Ethiopia,Male,0.0,,,top 25%
+586,3857,Ghana,Male,91043.0,36.0,107.13888888888889,others
+587,32,Nigeria,Male,0.0,1.0,32.0,others
+588,14,Ghana,Male,0.0,,,others
+589,12,Ethiopia,Female,0.0,,,top 25%
+590,12,Ethiopia,Male,0.0,,,top 25%
+591,1532,Rwanda,Male,19256.0,9.0,170.22222222222223,others
+592,12,Nigeria,Male,0.0,,,top 25%
+593,112,Kenya,Male,411.0,2.0,56.0,others
+594,1537,Ghana,Male,82641.0,19.0,80.89473684210526,others
+595,41,Ethiopia,Female,0.0,1.0,41.0,others
+596,12,Ghana,Male,0.0,,,top 25%
+597,12,Nigeria,Male,0.0,,,top 25%
+598,47,Nigeria,Male,0.0,2.0,23.5,others
+599,12,Nigeria,Female,0.0,,,top 25%
+600,12,Rwanda,Female,0.0,,,top 25%
+601,12,Nigeria,Male,0.0,,,top 25%
+602,27,"Congo, Democratic Republic of the",Male,0.0,1.0,27.0,others
+603,38,Ghana,Male,0.0,1.0,38.0,others
+604,12,Ethiopia,Male,0.0,,,top 25%
+605,12,Ethiopia,Male,0.0,,,top 25%
+606,12,Ethiopia,Male,0.0,,,top 25%
+607,6461,Nigeria,Female,65776.0,37.0,174.6216216216216,others
+608,83,Kenya,Male,5743.0,6.0,13.833333333333334,others
+609,20,Zimbabwe,Male,0.0,1.0,20.0,others
+610,12,Nigeria,Male,0.0,,,top 25%
+611,304,Ghana,Male,22866.0,5.0,60.8,others
+612,39,Ethiopia,Male,0.0,1.0,39.0,others
+613,12,Kenya,Female,0.0,,,top 25%
+614,22,Nigeria,Male,0.0,1.0,22.0,others
+615,1613,Nigeria,Male,1308.0,2.0,806.5,others
+616,13,Nigeria,Female,0.0,,,others
+617,30,Rwanda,Male,0.0,1.0,30.0,others
+618,22,Nigeria,Female,0.0,1.0,22.0,others
+619,15,Ghana,Male,0.0,,,others
+620,13,Ghana,Male,0.0,1.0,13.0,others
+621,13,Ghana,Female,0.0,,,others
+622,12,Nigeria,Male,0.0,,,top 25%
+623,12,Ghana,Female,0.0,,,top 25%
+624,12,Nigeria,Male,0.0,,,top 25%
+625,12,Ghana,Female,0.0,,,top 25%
+626,12,Ethiopia,Male,0.0,,,top 25%
+627,27,Nigeria,Male,42.0,2.0,13.5,others
+628,12,Rwanda,Male,0.0,,,top 25%
+629,13,Rwanda,Male,0.0,,,others
+630,23,Ghana,Male,0.0,1.0,23.0,others
+631,82,Sudan,Male,3042.0,5.0,16.4,others
+632,760,Ghana,Male,0.0,1.0,760.0,others
+633,12,Ethiopia,Male,0.0,,,top 25%
+634,15,Ethiopia,Male,0.0,,,others
+635,12,Uganda,Male,0.0,,,top 25%
+636,12,Ghana,Male,0.0,,,top 25%
+637,12,Ghana,Male,0.0,,,top 25%
+638,12,Ghana,Male,0.0,,,top 25%
+639,12,Ghana,Male,0.0,,,top 25%
+640,12,Ethiopia,Female,0.0,,,top 25%
+641,12,Kenya,Female,0.0,,,top 25%
+642,19,Ghana,Female,0.0,1.0,19.0,others
+643,12,Ghana,Female,0.0,,,top 25%
+644,12,Ghana,Male,0.0,,,top 25%
+645,12,Ghana,Male,0.0,,,top 25%
+646,23,Ghana,Male,0.0,1.0,23.0,others
+647,12,Ghana,Male,0.0,,,top 25%
+648,12,Ghana,Female,0.0,,,top 25%
+649,12,Ghana,Female,0.0,,,top 25%
+650,124,Kenya,Male,5927.0,8.0,15.5,others
+651,12,Ghana,Male,0.0,,,top 25%
+652,12,Rwanda,Male,0.0,,,top 25%
+653,12,Ghana,Male,0.0,,,top 25%
+654,34,Ghana,Male,0.0,1.0,34.0,others
+655,22,Ghana,Female,193.0,2.0,11.0,others
+656,91,Sierra Leone,Male,10833.0,6.0,15.166666666666666,others
+657,12,Ghana,Male,0.0,,,top 25%
+658,23,Nigeria,Male,0.0,1.0,23.0,others
+659,45,Ghana,Male,1445.0,2.0,22.5,others
+660,12,Ghana,Male,0.0,,,top 25%
+661,14,Ghana,Female,0.0,,,others
+662,42,Ghana,Male,0.0,1.0,42.0,others
+663,12,Ghana,Female,0.0,,,top 25%
+664,12,Uganda,Male,0.0,,,top 25%
+665,12,Ethiopia,Male,0.0,,,top 25%
+666,12,"Congo, Democratic Republic of the",Male,0.0,,,top 25%
+667,45,Rwanda,Male,0.0,1.0,45.0,others
+668,12,Malawi,Female,0.0,,,top 25%
+669,12,Ethiopia,Male,0.0,,,top 25%
+670,27,Gambia,Male,0.0,1.0,27.0,others
+671,12,Nigeria,Male,0.0,,,top 25%
+672,18,Rwanda,Male,0.0,1.0,18.0,others
+673,12,Ghana,Female,0.0,,,top 25%
+674,12,Nigeria,Male,0.0,,,top 25%
+675,12,Nigeria,Female,0.0,,,top 25%
+676,69,Rwanda,Male,6181.0,2.0,34.5,others
+677,15,Algeria,Male,0.0,,,others
+678,12,Ethiopia,Male,0.0,,,top 25%
+679,12,Ghana,Female,0.0,,,top 25%
+680,14,Uganda,Male,0.0,,,others
+681,12,Nigeria,Male,0.0,,,top 25%
+682,18,Nigeria,Male,0.0,1.0,18.0,others
+683,130,Nigeria,Male,3797.0,5.0,26.0,others
+684,12,"Tanzania, UNITED REPUBLIC OF",Male,0.0,,,top 25%
+685,12,Nigeria,Male,0.0,,,top 25%
+686,2080,Nigeria,Male,23463.0,29.0,71.72413793103448,others
+687,12,Nigeria,Female,0.0,,,top 25%
+688,43,Nigeria,Male,568.0,4.0,10.75,others
+689,12,Nigeria,Female,0.0,,,top 25%
+690,12,Kenya,Female,0.0,,,top 25%
+691,12,Zambia,Male,0.0,,,top 25%
+692,25,Ghana,Female,127.0,3.0,8.333333333333334,others
+693,13,Madagascar,Female,0.0,1.0,13.0,others
+694,13,Ethiopia,Female,0.0,,,others
+695,12,Ethiopia,Male,0.0,,,top 25%
+696,12,Kenya,Female,0.0,,,top 25%
+697,12,Ethiopia,Male,0.0,,,top 25%
+698,12,Nigeria,Male,0.0,,,top 25%
+699,12,Nigeria,Female,0.0,,,top 25%
+700,21,Ethiopia,Female,0.0,1.0,21.0,others
+701,12,Ethiopia,Female,0.0,,,top 25%
+702,12,Ethiopia,Male,0.0,,,top 25%
+703,12,Ghana,Male,0.0,,,top 25%
+704,12,Ethiopia,Female,0.0,,,top 25%
+705,17,Nigeria,Male,0.0,,,others
+706,41,Egypt,Male,2481.0,2.0,20.5,others
+707,16,"Tanzania, UNITED REPUBLIC OF",Male,0.0,,,others
+708,12,Nigeria,Female,0.0,,,top 25%
+709,12,Rwanda,Male,0.0,,,top 25%
+710,12,Nigeria,Male,0.0,,,top 25%
+711,13,Ethiopia,Male,0.0,,,others
+712,25,Cameroon,Female,0.0,1.0,25.0,others
+713,26,Nigeria,Male,0.0,1.0,26.0,others
+714,64,Ghana,Male,2244.0,2.0,32.0,others
+715,12,Nigeria,Male,0.0,,,top 25%
+716,14,Kenya,Male,0.0,,,others
+717,13,Kenya,Male,0.0,,,others
+718,33,Nigeria,Male,188.0,2.0,16.5,others
+719,20,Kenya,Male,0.0,,,others
+720,12,Zimbabwe,Male,0.0,,,top 25%
+721,102,Ethiopia,Male,3780.0,2.0,51.0,others
+722,16,Burkina Faso,Male,0.0,,,others
+723,183,Ethiopia,Male,11746.0,4.0,45.75,others
+724,25,Nigeria,Male,0.0,1.0,25.0,others
+725,12,Nigeria,Male,0.0,,,top 25%
+726,69,Nigeria,Male,3345.0,2.0,34.5,others
+727,18,Kenya,Male,0.0,1.0,18.0,others
+728,12,Ethiopia,Male,0.0,,,top 25%
+729,136,Ghana,Male,3986.0,9.0,15.11111111111111,others
+730,47,Botswana,Female,0.0,1.0,47.0,others
+731,12,Ethiopia,Female,0.0,,,top 25%
+732,25,Nigeria,Male,0.0,1.0,25.0,others
+733,54,Ghana,Male,3548.0,2.0,27.0,others
+734,52,Ghana,Male,0.0,1.0,52.0,others
+735,13,Ghana,Male,0.0,,,others
+736,12,Kenya,Male,0.0,,,top 25%
+737,46,Nigeria,Male,0.0,1.0,46.0,others
+738,87,Zimbabwe,Female,0.0,1.0,87.0,others
+739,11,Ghana,Male,0.0,,,top 10%
+740,14,Zimbabwe,Male,0.0,1.0,14.0,others
+741,34,Ghana,Male,0.0,1.0,34.0,others
+742,4220,Ghana,Male,22017.0,10.0,422.0,others
+743,33,Nigeria,Female,0.0,1.0,33.0,others
+744,84,Nigeria,Male,0.0,1.0,84.0,others
+745,31,Ghana,Male,0.0,1.0,31.0,others
+746,11,Ghana,Male,0.0,,,top 10%
+747,145,Ghana,Female,9905.0,5.0,29.0,others
+748,64,Ghana,Male,1196.0,5.0,12.8,others
+749,28,Kenya,Male,235.0,3.0,9.333333333333334,others
+750,103,Ghana,Male,647.0,2.0,51.5,others
+751,21,Uganda,Male,0.0,1.0,21.0,others
+752,61,Kenya,Female,0.0,1.0,61.0,others
+753,11,Ghana,Male,0.0,,,top 10%
+754,50,South Africa,Female,684.0,2.0,25.0,others
+755,11,Uganda,Female,0.0,,,top 10%
+756,780,Nigeria,Male,0.0,1.0,780.0,others
+757,188,Nigeria,Male,9573.0,4.0,47.0,others
+758,68,Nigeria,Male,532.0,2.0,34.0,others
+759,896,Nigeria,Male,2951.0,2.0,448.0,others
+760,86,Ghana,Male,2902.0,3.0,28.666666666666668,others
+761,11,"Tanzania, UNITED REPUBLIC OF",Male,0.0,,,top 10%
+762,11,Ethiopia,Male,0.0,,,top 10%
+763,11,Nigeria,Male,0.0,,,top 10%
+764,35,Ghana,Male,0.0,1.0,35.0,others
+765,43,Ghana,Male,86.0,2.0,21.5,others
+766,84,Ghana,Male,4517.0,6.0,14.0,others
+767,11,Kenya,Female,0.0,,,top 10%
+768,93,Germany,Male,0.0,1.0,93.0,others
+769,11,Zambia,Male,0.0,,,top 10%
+770,47,Ghana,Female,0.0,1.0,47.0,others
+771,13,Kenya,Female,0.0,,,others
+772,11,Kenya,Female,0.0,,,top 10%
+773,12,Nigeria,Male,0.0,,,top 25%
+774,11,Ethiopia,Male,0.0,,,top 10%
+775,1006,Ethiopia,Male,2548.0,3.0,335.3333333333333,others
+776,12,Botswana,Female,0.0,,,top 25%
+777,2608,Rwanda,Male,0.0,1.0,2608.0,others
+778,11,Rwanda,Male,0.0,,,top 10%
+779,11,Gambia,Male,0.0,,,top 10%
+780,46,Gambia,Male,3610.0,3.0,15.333333333333334,others
+781,11,Ethiopia,Male,0.0,,,top 10%
+782,11,Malawi,Male,0.0,,,top 10%
+783,13,Ethiopia,Female,0.0,,,others
+784,14,"Tanzania, UNITED REPUBLIC OF",Male,0.0,1.0,14.0,others
+785,31,Nigeria,Male,316.0,3.0,10.333333333333334,others
+786,3692,Nigeria,Female,309.0,2.0,1846.0,others
+787,11,Kenya,Female,0.0,,,top 10%
+788,11,Zimbabwe,Female,0.0,,,top 10%
+789,956,Rwanda,Male,84.0,2.0,478.0,others
+790,11,Nigeria,Male,0.0,,,top 10%
+791,13,Chad,Male,0.0,1.0,13.0,others
+792,13,Rwanda,Female,0.0,,,others
+793,16,Burkina Faso,Male,0.0,1.0,16.0,others
+794,930,Nigeria,Male,384.0,2.0,465.0,others
+795,29,Ghana,Male,501.0,2.0,14.5,others
+796,83,Nigeria,Male,13512.0,7.0,11.857142857142858,others
+797,15,Nigeria,Male,0.0,,,others
+798,22,Nigeria,Male,353.0,3.0,7.333333333333333,others
+799,41,Ghana,Female,0.0,1.0,41.0,others
+800,13,Rwanda,Female,0.0,,,others
+801,1822,Rwanda,Male,5611.0,2.0,911.0,others
+802,34,Nigeria,Male,1306.0,2.0,17.0,others
+803,13,Nigeria,Male,0.0,,,others
+804,11,Ghana,Female,0.0,,,top 10%
+805,11,Nigeria,Male,0.0,,,top 10%
+806,11,Ghana,Female,0.0,,,top 10%
+807,57,Ghana,Female,3472.0,2.0,28.5,others
+808,11,Ghana,Male,0.0,,,top 10%
+809,19,Ghana,Female,0.0,1.0,19.0,others
+810,11,Ghana,Female,0.0,,,top 10%
+811,13,Kenya,Female,0.0,,,others
+812,11,Nigeria,Male,0.0,,,top 10%
+813,139,Kenya,Female,0.0,1.0,139.0,others
+814,29,Kenya,Male,0.0,1.0,29.0,others
+815,45,Ghana,Male,1923.0,3.0,15.0,others
+816,11,Nigeria,Male,0.0,,,top 10%
+817,40,Nigeria,Male,0.0,1.0,40.0,others
+818,54,Nigeria,Male,1036.0,2.0,27.0,others
+819,11,"Tanzania, UNITED REPUBLIC OF",Female,0.0,,,top 10%
+820,11,Kenya,Female,0.0,,,top 10%
+821,11,Somalia,Male,0.0,,,top 10%
+822,11,Ghana,Female,0.0,,,top 10%
+823,11,Kenya,Female,0.0,,,top 10%
+824,13,Ghana,Female,0.0,,,others
+825,38,Ghana,Male,0.0,1.0,38.0,others
+826,19,Ghana,Female,365.0,2.0,9.5,others
+827,12,Nigeria,Male,0.0,,,top 25%
+828,23,Ghana,Male,0.0,1.0,23.0,others
+829,11,Ghana,Male,0.0,,,top 10%
+830,60,Nigeria,Male,411.0,2.0,30.0,others
+831,11,Ghana,Male,0.0,,,top 10%
+832,11,Ghana,Female,0.0,,,top 10%
+833,11,Kenya,Male,0.0,,,top 10%
+834,24,Ghana,Male,0.0,1.0,24.0,others
+835,14,Ghana,Female,0.0,,,others
+836,11,Ghana,Female,0.0,,,top 10%
+837,13,Ghana,Female,0.0,,,others
+838,84,Ghana,Male,3609.0,2.0,42.0,others
+839,11,Ghana,Male,0.0,,,top 10%
+840,19,Ghana,Male,0.0,1.0,19.0,others
+841,11,Ghana,Male,0.0,,,top 10%
+842,1980,Nigeria,Male,14223.0,8.0,247.5,others
+843,176,Nigeria,Female,13440.0,5.0,35.2,others
+844,86,Ghana,Male,734.0,3.0,28.666666666666668,others
+845,11,Ghana,Male,0.0,,,top 10%
+846,2792,Nigeria,Male,7402.0,6.0,465.3333333333333,others
+847,44,Ghana,Male,155.0,2.0,22.0,others
+848,41,Nigeria,Male,0.0,1.0,41.0,others
+849,49,Kenya,Female,0.0,1.0,49.0,others
+850,11,Togo,Male,0.0,,,top 10%
+851,25,Nigeria,Male,327.0,2.0,12.5,others
+852,11,Nigeria,Male,0.0,,,top 10%
+853,11,Ghana,Male,0.0,,,top 10%
+854,20,Nigeria,Female,0.0,1.0,20.0,others
+855,11,Ghana,Female,0.0,,,top 10%
+856,81,Nigeria,Male,13239.0,5.0,16.2,others
+857,11,Nigeria,Male,0.0,,,top 10%
+858,11,Ghana,Female,0.0,,,top 10%
+859,11,Nigeria,Female,0.0,,,top 10%
+860,11,Nigeria,Male,0.0,,,top 10%
+861,22,"Congo, Democratic Republic of the",Male,0.0,1.0,22.0,others
+862,28,Nigeria,Male,0.0,1.0,28.0,others
+863,11,Ghana,Female,0.0,,,top 10%
+864,18,Kenya,Male,0.0,1.0,18.0,others
+865,1785,Nigeria,Male,63692.0,27.0,66.11111111111111,others
+866,2863,Ghana,Male,27086.0,7.0,409.0,others
+867,54,Ghana,Male,3871.0,3.0,18.0,others
+868,11,Ghana,Female,0.0,,,top 10%
+869,132,Ghana,Male,22828.0,16.0,8.25,others
+870,28,Ethiopia,Female,280.0,2.0,14.0,others
+871,11,Nigeria,Male,0.0,,,top 10%
+872,11,Ghana,Female,0.0,,,top 10%
+873,57,Nigeria,Female,7553.0,5.0,11.4,others
+874,11,Uganda,Female,0.0,,,top 10%
+875,11,Kenya,Male,0.0,,,top 10%
+876,11,Nigeria,Female,0.0,,,top 10%
+877,14,Kenya,Female,0.0,,,others
+878,52,Ethiopia,Male,899.0,2.0,26.0,others
+879,3725,Ghana,Male,7063.0,4.0,931.25,others
+880,11,Ethiopia,Male,0.0,,,top 10%
+881,16,"Tanzania, UNITED REPUBLIC OF",Male,0.0,1.0,16.0,others
+882,11,Nigeria,Female,0.0,,,top 10%
+883,12,Kenya,Female,0.0,,,top 25%
+884,22,Kenya,Male,0.0,,,others
+885,29,Ghana,Female,0.0,1.0,29.0,others
+886,11,Nigeria,Male,0.0,,,top 10%
+887,43,Ghana,Female,0.0,1.0,43.0,others
+888,53,Kenya,Female,0.0,1.0,53.0,others
+889,53,Ghana,Female,0.0,1.0,53.0,others
+890,22,Ghana,Female,0.0,1.0,22.0,others
+891,13,Sierra Leone,Male,0.0,1.0,13.0,others
+892,14,Ghana,Female,0.0,1.0,14.0,others
+893,66,Niger,Male,0.0,1.0,66.0,others
+894,11,Ghana,Female,0.0,,,top 10%
+895,28,Ghana,Female,0.0,1.0,28.0,others
+896,35,Nigeria,Female,0.0,1.0,35.0,others
+897,29,Nigeria,Male,305.0,2.0,14.5,others
+898,11,Nigeria,Female,0.0,,,top 10%
+899,13,"Tanzania, UNITED REPUBLIC OF",Male,0.0,,,others
+900,11,Ethiopia,Male,0.0,,,top 10%
+901,11,Gambia,Female,0.0,,,top 10%
+902,11,Ethiopia,Female,0.0,,,top 10%
+903,52,Kenya,Female,664.0,2.0,26.0,others
+904,25,Nigeria,Female,0.0,1.0,25.0,others
+905,11,Ethiopia,Female,0.0,,,top 10%
+906,11,Ghana,Male,0.0,,,top 10%
+907,11,Nigeria,Male,0.0,,,top 10%
+908,29,Nigeria,Male,991.0,2.0,14.5,others
+909,11,"Tanzania, UNITED REPUBLIC OF",Male,0.0,,,top 10%
+910,38,Ghana,Male,0.0,1.0,38.0,others
+911,63,Ghana,Male,804.0,2.0,31.5,others
+912,11,Zimbabwe,Female,0.0,,,top 10%
+913,26,Ghana,Male,0.0,1.0,26.0,others
+914,132,Ghana,Female,0.0,1.0,132.0,others
+915,14,Ethiopia,Female,0.0,,,others
+916,11,"Tanzania, UNITED REPUBLIC OF",Female,0.0,,,top 10%
+917,10696,Germany,Male,318734.0,47.0,227.5744680851064,others
+918,540,Ghana,Female,33272.0,8.0,67.5,others
+919,43,Kenya,Female,0.0,1.0,43.0,others
+920,11,Kenya,Female,0.0,,,top 10%
+921,27,Ethiopia,Male,0.0,1.0,27.0,others
+922,92,Kenya,Male,158.0,2.0,46.0,others
+923,11,Ghana,Male,0.0,,,top 10%
+924,650,Ethiopia,Male,38542.0,14.0,46.42857142857143,others
+925,11,"Tanzania, UNITED REPUBLIC OF",Female,0.0,,,top 10%
+926,32,Zambia,Female,0.0,1.0,32.0,others
+927,11,Nigeria,Female,0.0,,,top 10%
+928,11,Kenya,Male,0.0,,,top 10%
+929,19,Cameroon,Female,0.0,1.0,19.0,others
+930,1686,"Congo, Democratic Republic of the",Male,67230.0,16.0,105.375,others
+931,40,Rwanda,Female,0.0,1.0,40.0,others
+932,11,Ghana,Male,0.0,,,top 10%
+933,11,Nigeria,Male,0.0,,,top 10%
+934,11,Kenya,Male,0.0,,,top 10%
+935,11,Nigeria,Male,0.0,,,top 10%
+936,11,Kenya,Female,0.0,,,top 10%
+937,11,Ghana,Male,0.0,,,top 10%
+938,11,Ghana,Female,0.0,,,top 10%
+939,54,Ghana,Male,2384.0,2.0,27.0,others
+940,34,Ghana,Male,0.0,1.0,34.0,others
+941,142,Ghana,Male,17809.0,5.0,28.4,others
+942,11,Ghana,Female,0.0,,,top 10%
+943,73,Ghana,Male,3538.0,6.0,12.166666666666666,others
+944,11,Ghana,Male,0.0,,,top 10%
+945,139,Ghana,Female,6772.0,4.0,34.75,others
+946,28,Ghana,Female,89.0,2.0,14.0,others
+947,11,Ghana,Male,0.0,,,top 10%
+948,11,Ethiopia,Male,0.0,,,top 10%
+949,11,Ghana,Female,0.0,,,top 10%
+950,11,Kenya,Male,0.0,,,top 10%
+951,17,Ghana,Female,0.0,1.0,17.0,others
+952,11,Ethiopia,Female,0.0,,,top 10%
+953,22,Ghana,Female,0.0,1.0,22.0,others
+954,11,Ghana,Male,0.0,,,top 10%
+955,17,Ghana,Female,0.0,,,others
+956,11,Ghana,Male,0.0,,,top 10%
+957,25,Ghana,Female,0.0,1.0,25.0,others
+958,15,Ghana,Male,0.0,,,others
+959,21,Ghana,Female,0.0,2.0,10.5,others
+960,12,Kenya,Male,0.0,,,top 25%
+961,11,Rwanda,Male,0.0,,,top 10%
+962,11,"Tanzania, UNITED REPUBLIC OF",Male,0.0,,,top 10%
+963,11,Nigeria,Male,0.0,,,top 10%
+964,13,Nigeria,Female,0.0,1.0,13.0,others
+965,11,Kenya,Female,0.0,,,top 10%
+966,11,Ghana,Male,0.0,,,top 10%
+967,11,Ethiopia,Female,0.0,,,top 10%
+968,14,Niger,Female,0.0,,,others
+969,11,Ghana,Female,0.0,,,top 10%
+970,15,Rwanda,Male,0.0,,,others
+971,27,Germany,Male,,,,others
+972,10,South Africa,Male,0.0,,,top 5%
+973,10,Kenya,Female,0.0,,,top 5%
+974,10,Rwanda,Female,0.0,,,top 5%
+975,10,Ghana,Female,0.0,,,top 5%
+976,22,Kenya,Male,0.0,1.0,22.0,others
+977,10,Kenya,Male,0.0,,,top 5%
+978,10,South Sudan,Male,0.0,,,top 5%
+979,10,"Tanzania, UNITED REPUBLIC OF",Female,0.0,,,top 5%
+980,10,South Sudan,Male,0.0,,,top 5%
+981,10,Liberia,Male,0.0,,,top 5%
+982,10,Ghana,Female,0.0,,,top 5%
+983,10,Ethiopia,Male,0.0,,,top 5%
+984,10,Ghana,Male,0.0,,,top 5%
+985,10,Malawi,Male,0.0,,,top 5%
+986,14,Ghana,Female,0.0,,,others
+987,25,Ghana,Female,0.0,1.0,25.0,others
+988,35,Ghana,Female,0.0,1.0,35.0,others
+989,1529,Ethiopia,Male,70083.0,13.0,117.61538461538461,others
+990,70,Ghana,Male,101.0,2.0,35.0,others
+991,106,Ghana,Male,7173.0,4.0,26.5,others
+992,19,Kenya,Male,0.0,1.0,19.0,others
+993,13,Ethiopia,Male,0.0,,,others
+994,10,Nigeria,Male,0.0,,,top 5%
+995,10,Nigeria,Male,0.0,,,top 5%
+996,10,Kenya,Male,0.0,,,top 5%
+997,10,Ethiopia,Female,0.0,,,top 5%
+998,10,Kenya,Male,0.0,,,top 5%
+999,55,Ghana,Male,1300.0,2.0,27.5,others
+1000,10,Nigeria,Female,0.0,,,top 5%
+1001,47,Nigeria,Male,0.0,1.0,47.0,others
+1002,31,Nigeria,Male,85.0,2.0,15.5,others
+1003,10,Kenya,Male,0.0,,,top 5%
+1004,68,Ghana,Male,1493.0,3.0,22.666666666666668,others
+1005,24,Ghana,Male,0.0,1.0,24.0,others
+1006,33,Nigeria,Male,0.0,1.0,33.0,others
+1007,24,Uganda,Male,0.0,2.0,12.0,others
+1008,12,Ghana,Female,0.0,,,top 25%
+1009,10,Nigeria,Female,0.0,,,top 5%
+1010,36,Ghana,Male,417.0,3.0,12.0,others
+1011,10,"Tanzania, UNITED REPUBLIC OF",Male,0.0,,,top 5%
+1012,10,Kenya,Male,0.0,,,top 5%
+1013,10,Ghana,Male,0.0,,,top 5%
+1014,10,Togo,Male,0.0,,,top 5%
+1015,28,Ghana,Male,0.0,1.0,28.0,others
+1016,26,Ghana,Male,0.0,1.0,26.0,others
+1017,10,Ghana,Male,0.0,,,top 5%
+1018,10,Nigeria,Male,0.0,,,top 5%
+1019,907,Germany,Male,23701.0,14.0,64.78571428571429,others
+1020,9,Liberia,Male,0.0,,,top 1%
+1021,9,Kenya,Female,0.0,,,top 1%
+1022,9,Nigeria,Male,0.0,,,top 1%
+1023,9,Zimbabwe,Male,0.0,,,top 1%
+1024,9,"Tanzania, UNITED REPUBLIC OF",Female,0.0,,,top 1%
+1025,3404,Ethiopia,Male,9463.0,4.0,851.0,others
+1026,9,Rwanda,Female,0.0,,,top 1%
+1027,1625,Ethiopia,Male,28569.0,13.0,125.0,others
+1028,37,Ethiopia,Male,212.0,2.0,18.5,others
+1029,65,Ethiopia,Male,0.0,1.0,65.0,others
+1030,9,Nigeria,Male,0.0,,,top 1%
+1031,9,Liberia,Male,0.0,,,top 1%
+1032,9,Liberia,Male,0.0,,,top 1%
+1033,9,Ghana,Female,0.0,,,top 1%
+1034,9,Nigeria,Female,0.0,,,top 1%
+1035,9,Nigeria,Male,0.0,,,top 1%
+1036,9,Ghana,Female,0.0,,,top 1%
+1037,12,Kenya,Female,0.0,,,top 25%
+1038,9,Ghana,Male,0.0,,,top 1%
+1039,9,Zambia,Male,0.0,,,top 1%
+1040,11,"Tanzania, UNITED REPUBLIC OF",Male,0.0,,,top 10%
+1041,177,Ghana,Male,3164.0,2.0,88.5,others
+1042,9,Nigeria,Female,0.0,,,top 1%
+1043,9,Ghana,Female,0.0,,,top 1%
+1044,9,Liberia,Male,0.0,,,top 1%
+1045,9,Gambia,Male,0.0,,,top 1%
+1046,9,South Sudan,Female,0.0,,,top 1%
+1047,77,Ethiopia,Male,5902.0,6.0,12.833333333333334,others
+1048,30,Nigeria,Male,0.0,1.0,30.0,others
+1049,9,Ethiopia,Female,0.0,,,top 1%
+1050,12,Malawi,Male,0.0,,,top 25%
+1051,9,Nigeria,Female,0.0,,,top 1%
+1052,9,Ethiopia,Male,0.0,,,top 1%
