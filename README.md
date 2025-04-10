@@ -11,7 +11,7 @@ This repository contains a comprehensive analysis of anonymized Moodle logs for 
 │   ├── country_gender.csv
 │   ├── dedication_time.csv
 │   ├── login_counts.csv
-│   └── (other CSV extracts, if applicable)
+│   └── etl_output.csv
 ├── sql/
 │   ├── count_tables.sql
 │   ├── count_records.sql
